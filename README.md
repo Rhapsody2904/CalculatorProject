@@ -1,1 +1,3 @@
 # CalculatorProject
+
+Very simple calculator.
